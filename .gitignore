@@ -1,0 +1,7 @@
+*
+!.gitignore
+!lua/
+!lua/config/
+!lua/config/lazy.lua
+!lua/plugins/
+!lua/plugins/init.lua
